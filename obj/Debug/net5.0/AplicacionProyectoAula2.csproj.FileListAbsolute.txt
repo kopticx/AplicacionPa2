@@ -1,0 +1,16 @@
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\AplicacionProyectoAula2.exe
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\AplicacionProyectoAula2.deps.json
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\AplicacionProyectoAula2.runtimeconfig.json
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\AplicacionProyectoAula2.runtimeconfig.dev.json
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\AplicacionProyectoAula2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\ref\AplicacionProyectoAula2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\bin\Debug\net5.0\AplicacionProyectoAula2.pdb
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.AssemblyInfoInputs.cache
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.AssemblyInfo.cs
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\ref\AplicacionProyectoAula2.dll
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.pdb
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.genruntimeconfig.cache
+C:\Users\Kevin\Documents\Proyectos C#\AplicacionProyectoAula2\obj\Debug\net5.0\AplicacionProyectoAula2.csproj.AssemblyReference.cache
